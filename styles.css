@@ -6,6 +6,7 @@
 #red{
 	background-color:red;
 	border-top: 3px solid black;
+	border-bottom: solid;
 }
 #green{
 	background-color: green;

@@ -12,5 +12,8 @@
 }
 #green{
 	background-color: green;
-	border: 1px solid yellow;
+	border-top: 3px solid yellow;
+	border-bottom: solid yellow;
+	border-left:solid yellow;
+	border-right:solid yellow;
 }
